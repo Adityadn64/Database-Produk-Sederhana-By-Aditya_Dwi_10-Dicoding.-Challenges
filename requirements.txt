@@ -1,0 +1,10 @@
+streamlit
+cmake
+opencv-python-headless
+pandas
+numpy
+requests
+Pillow
+pyyaml
+streamlit-authenticator
+streamlit-cookies-controller

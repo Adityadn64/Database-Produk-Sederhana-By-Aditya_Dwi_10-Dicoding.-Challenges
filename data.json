@@ -1,0 +1,410 @@
+{
+    "Ciptadent Pasta Gigi 75gr": {
+        "quantity": 9.0,
+        "price": 2950.0
+    },
+    "Ciptadent Sikat Gigi": {
+        "quantity": 2.0,
+        "price": 10000.0
+    },
+    "Cleantex": {
+        "quantity": 5.0,
+        "price": 9500.0
+    },
+    "Conditioner Panten": {
+        "quantity": 3.0,
+        "price": 15000.0
+    },
+    "Corong": {
+        "quantity": 3.0,
+        "price": 1000.0
+    },
+    "Cukuran": {
+        "quantity": 6.0,
+        "price": 7000.0
+    },
+    "Ekenomi": {
+        "quantity": 27.0,
+        "price": 3200.0
+    },
+    "Freeshcare": {
+        "quantity": 5.0,
+        "price": 11000.0
+    },
+    "Fresh Parfum": {
+        "quantity": 2.0,
+        "price": 9000.0
+    },
+    "Garam 200gr": {
+        "quantity": 20.0,
+        "price": 1000.0
+    },
+    "Garam 250gr": {
+        "quantity": 11.0,
+        "price": 2000.0
+    },
+    "Gatsby": {
+        "quantity": 3.0,
+        "price": 12000.0
+    },
+    "Gelas Isi 6": {
+        "quantity": 2.0,
+        "price": 9000.0
+    },
+    "Gula Biasa": {
+        "quantity": 6.0,
+        "price": 15500.0
+    },
+    "Gula Rosebrand": {
+        "quantity": 2.0,
+        "price": 17000.0
+    },
+    "Gulaku": {
+        "quantity": 4.0,
+        "price": 17500.0
+    },
+    "H&b Citra": {
+        "quantity": 2.0,
+        "price": 16000.0
+    },
+    "H&b Emeron 400ml": {
+        "quantity": 3.0,
+        "price": 8700.0
+    },
+    "H&b Emeron 500ml": {
+        "quantity": 1.0,
+        "price": 12000.0
+    },
+    "H&b Marina": {
+        "quantity": 2.0,
+        "price": 6500.0
+    },
+    "H&b Scarlet": {
+        "quantity": 1.0,
+        "price": 25000.0
+    },
+    "H&b Vashelen": {
+        "quantity": 1.0,
+        "price": 10000.0
+    },
+    "Happytos": {
+        "quantity": 4.0,
+        "price": 8200.0
+    },
+    "Indomilk": {
+        "quantity": 2.0,
+        "price": 13500.0
+    },
+    "Jepit Anak": {
+        "quantity": 2.0,
+        "price": 5000.0
+    },
+    "Jepit Rambut": {
+        "quantity": 4.0,
+        "price": 1250.0
+    },
+    "Kacamata": {
+        "quantity": 2.0,
+        "price": 0.0
+    },
+    "Kapur Barus Swallow": {
+        "quantity": 1.0,
+        "price": 17000.0
+    },
+    "Kecap Abc Botol": {
+        "quantity": 1.0,
+        "price": 6000.0
+    },
+    "Kecap Abc Pouch": {
+        "quantity": 1.0,
+        "price": 14000.0
+    },
+    "Kecap Sedap": {
+        "quantity": 2.0,
+        "price": 2000.0
+    },
+    "Keju": {
+        "quantity": 1.0,
+        "price": 8100.0
+    },
+    "Kodomo Anak": {
+        "quantity": 3.0,
+        "price": 5000.0
+    },
+    "Kopi Fresco": {
+        "quantity": 1.0,
+        "price": 7000.0
+    },
+    "Kopi Luwak": {
+        "quantity": 1.0,
+        "price": 6000.0
+    },
+    "Lulur Shinzui": {
+        "quantity": 2.0,
+        "price": 12500.0
+    },
+    "Margarin": {
+        "quantity": 2.0,
+        "price": 5000.0
+    },
+    "Masker Hitam Bagus": {
+        "quantity": 1.0,
+        "price": 14000.0
+    },
+    "Masker Hitam Putih": {
+        "quantity": 1.0,
+        "price": 6000.0
+    },
+    "Masker Kf 94 Hijau": {
+        "quantity": 1.0,
+        "price": 6500.0
+    },
+    "Masker Kf 94 Hitam": {
+        "quantity": 1.0,
+        "price": 6500.0
+    },
+    "Masker Kf 94 Silver": {
+        "quantity": 1.0,
+        "price": 4500.0
+    },
+    "Masker Warna": {
+        "quantity": 1.0,
+        "price": 13500.0
+    },
+    "Minyak Goreng Bimoli 1lt": {
+        "quantity": 1.0,
+        "price": 15000.0
+    },
+    "Minyak Goreng Filma 2lt": {
+        "quantity": 7.0,
+        "price": 29500.0
+    },
+    "Minyak Goreng Tropical 2lt": {
+        "quantity": 16.0,
+        "price": 29500.0
+    },
+    "Mkp 30ml": {
+        "quantity": 3.0,
+        "price": 10500.0
+    },
+    "Mybaby Anak": {
+        "quantity": 0.0,
+        "price": 3250.0
+    },
+    "Pasta Gigi Pepsodent 150gr": {
+        "quantity": 3.0,
+        "price": 7500.0
+    },
+    "Pasta Gigi Pepsodent 190gr": {
+        "quantity": 2.0,
+        "price": 16000.0
+    },
+    "Pasta Gigi Pepsodent 225gr": {
+        "quantity": 2.0,
+        "price": 10500.0
+    },
+    "Pasta Gigi Pepsodent Anak": {
+        "quantity": 4.0,
+        "price": 6000.0
+    },
+    "Pelembab Poice": {
+        "quantity": 1.0,
+        "price": 10000.0
+    },
+    "Rapika 250ml": {
+        "quantity": 5.0,
+        "price": 3000.0
+    },
+    "Rapika 400ml": {
+        "quantity": 2.0,
+        "price": 4000.0
+    },
+    "Rexona Deo": {
+        "quantity": 3.0,
+        "price": 10000.0
+    },
+    "Rinso Bubuk": {
+        "quantity": 10.0,
+        "price": 7200.0
+    },
+    "Rinso Cair": {
+        "quantity": 2.0,
+        "price": 11000.0
+    },
+    "Rinso Matic": {
+        "quantity": 6.0,
+        "price": 21500.0
+    },
+    "Royale": {
+        "quantity": 2.0,
+        "price": 14000.0
+    },
+    "Sabun Batang Citra": {
+        "quantity": 2.0,
+        "price": 2500.0
+    },
+    "Sabun Batang Fresh": {
+        "quantity": 3.0,
+        "price": 3000.0
+    },
+    "Sabun Batang Gift": {
+        "quantity": 10.0,
+        "price": 2700.0
+    },
+    "Sabun Batang Shinzui": {
+        "quantity": 0.0,
+        "price": 3750.0
+    },
+    "Sabun Batang Zen Isi 3": {
+        "quantity": 2.0,
+        "price": 9000.0
+    },
+    "Sabun Batang Zen Isi 4": {
+        "quantity": 3.0,
+        "price": 9000.0
+    },
+    "Sabun Mandi Cair Fair Lovely 82ml": {
+        "quantity": 3.0,
+        "price": 21000.0
+    },
+    "Sabun Mandi Cair Fair N Lovely 300ml": {
+        "quantity": 1.0,
+        "price": 12500.0
+    },
+    "Sabun Mandi Cair K Natural": {
+        "quantity": 1.0,
+        "price": 13000.0
+    },
+    "Sabun Mandi Cair Lervia 400ml": {
+        "quantity": 1.0,
+        "price": 13500.0
+    },
+    "Sabun Mandi Cair Nuvo": {
+        "quantity": 1.0,
+        "price": 12000.0
+    },
+    "Sabun Mandi Gift Cair 400ml": {
+        "quantity": 3.0,
+        "price": 11500.0
+    },
+    "Sabun Mandi Gift Cair 82ml": {
+        "quantity": 2.0,
+        "price": 21750.0
+    },
+    "Sabun Muka Glow & Lovely": {
+        "quantity": 2.0,
+        "price": 9500.0
+    },
+    "Sabun Muka Poice": {
+        "quantity": 1.0,
+        "price": 18000.0
+    },
+    "Sabun Muka Ponds Biru": {
+        "quantity": 2.0,
+        "price": 15000.0
+    },
+    "Sabun Muka Ponds Pink": {
+        "quantity": 2.0,
+        "price": 17000.0
+    },
+    "Salep": {
+        "quantity": 6.0,
+        "price": 7000.0
+    },
+    "Sampo Emeron 170ml": {
+        "quantity": 3.0,
+        "price": 13000.0
+    },
+    "Sampo Emeron 340ml": {
+        "quantity": 3.0,
+        "price": 21500.0
+    },
+    "Sampo Panteen": {
+        "quantity": 2.0,
+        "price": 15000.0
+    },
+    "Santan Sasa": {
+        "quantity": 6.0,
+        "price": 2000.0
+    },
+    "Saos Abc": {
+        "quantity": 1.0,
+        "price": 6000.0
+    },
+    "Sikat Gigi Ciptadent": {
+        "quantity": 2.0,
+        "price": 7200.0
+    },
+    "Sikat Gigi Formula": {
+        "quantity": 4.0,
+        "price": 5500.0
+    },
+    "Sikat Gigi Pepsodent": {
+        "quantity": 2.0,
+        "price": 6000.0
+    },
+    "Sisik Ikan": {
+        "quantity": 3.0,
+        "price": 3000.0
+    },
+    "Sisir Anak/dewasa": {
+        "quantity": 4.0,
+        "price": 5000.0
+    },
+    "Sisir Kutu": {
+        "quantity": 5.0,
+        "price": 4000.0
+    },
+    "Soklin Bubuk": {
+        "quantity": 6.0,
+        "price": 9000.0
+    },
+    "Soklin Pewangi": {
+        "quantity": 4.0,
+        "price": 8500.0
+    },
+    "Soled": {
+        "quantity": 8.0,
+        "price": 1000.0
+    },
+    "Sosoft": {
+        "quantity": 3.0,
+        "price": 12250.0
+    },
+    "Sunlight": {
+        "quantity": 3.0,
+        "price": 3500.0
+    },
+    "Super Pel": {
+        "quantity": 1.0,
+        "price": 7500.0
+    },
+    "Susu Kaleng Ff": {
+        "quantity": 1.0,
+        "price": 11000.0
+    },
+    "Teh Celup Sosro": {
+        "quantity": 1.0,
+        "price": 5000.0
+    },
+    "Teh Sosro Kotak": {
+        "quantity": 50.0,
+        "price": 2500.0
+    },
+    "Tepung Kriuk": {
+        "quantity": 8.0,
+        "price": 1450.0
+    },
+    "Tisu Basah": {
+        "quantity": 5.0,
+        "price": 4600.0
+    },
+    "Tisu Nice": {
+        "quantity": 11.0,
+        "price": 6000.0
+    },
+    "Vixal": {
+        "quantity": 4.0,
+        "price": 3500.0
+    }
+}
