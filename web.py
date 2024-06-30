@@ -77,8 +77,8 @@ data = dict(sorted(data.items()))
 st.title("Database Produk Sederhana")
 
 st.link_button('Github Code', "https://github.com/Adityadn64/Database-Produk-Sederhana-By-Aditya_Dwi_10-Dicoding.-Challenges/tree/main")
-st.info('username: myusername')
-st.info('password: mypassword')
+st.info('username: yourusername')
+st.info('password: yourpassword')
 
 with open('Auth/config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
